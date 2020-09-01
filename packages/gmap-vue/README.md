@@ -100,7 +100,7 @@ Vue.use(VueGoogleMaps, {
   // autobindAllEvents: false,
 
   //// If you want to manually install components, e.g.
-  //// import {GmapMarker} from 'vue2-google-maps/src/components/marker'
+  //// import {GmapMarker} from 'gmap-vue/src/components/marker'
   //// Vue.component('GmapMarker', GmapMarker)
   //// then set installComponents to 'false'.
   //// If you want to automatically install all the components this property must be set to 'true':
